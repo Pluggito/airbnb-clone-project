@@ -101,3 +101,27 @@ Clearly defining roles and responsibilities ensures that every team member under
 
 ---
 By assigning and following these roles, the project team can work collaboratively, maintain accountability, and deliver a functional, user-friendly Airbnb-clone application.  
+
+
+## UI Component Patterns
+
+To ensure consistency and reusability across the Airbnb-clone project, the application will be built using modular UI components. These components will form the foundation of the user interface and can be reused across different pages for efficiency and maintainability.
+
+### 🔹 Planned Components
+
+- **Navbar**  
+  Provides navigation across the main sections of the application (e.g., Home, Listings, Profile, Bookings).  
+  It will remain consistent at the top of the application to improve user flow.  
+
+- **Property Card**  
+  Displays an individual property with key information such as an image, title, price per night, and location.  
+  It will be used in the property listing view to present multiple properties in a grid or list format.  
+
+- **Footer**  
+  Sits at the bottom of the page with quick links, copyright information, and possible social media icons.  
+  Provides closure to the page layout and supports brand identity.  
+
+---
+
+Additional components may include **Search Bar**, **Filter Dropdowns**, **Booking Form**, and **Button Variants**, which will help streamline user interactions throughout the app.  
+
