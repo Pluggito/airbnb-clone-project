@@ -53,3 +53,51 @@ Identifying design properties in a mockup is essential for ensuring clarity betw
 It maintains consistency across the application by reusing styles, colors, and components.  
 This process improves efficiency during implementation and reduces errors or redesigns.  
 Ultimately, it supports a smooth user experience and makes the product more scalable and user-friendly.  
+
+
+## Project Roles and Responsibilities
+
+Clearly defining roles and responsibilities ensures that every team member understands their contribution to the project’s success. The following roles are essential for this Airbnb-clone project:
+
+### 👤 Project Manager
+- Oversees the project timeline, deliverables, and resources.  
+- Ensures effective communication across the team.  
+- Manages risks and resolves blockers to keep the project on track.  
+
+### 🎨 Designers (UI/UX)
+- Create wireframes, mockups, and prototypes to define the user experience.  
+- Establish visual identity (colors, typography, layout).  
+- Work closely with developers to ensure accurate design implementation.  
+
+### 💻 Frontend Developers
+- Build the user interface with HTML, CSS, and JavaScript (React/Next.js).  
+- Ensure responsiveness, accessibility, and performance of the app.  
+- Integrate with backend services and APIs.  
+
+### 🖥️ Backend Developers
+- Develop and maintain server-side logic, APIs, and databases.  
+- Handle authentication, booking logic, and data management.  
+- Ensure scalability, security, and efficiency of backend processes.  
+
+### 🧪 QA/Testers
+- Test the application for bugs, usability issues, and performance problems.  
+- Write and execute test cases to ensure features meet requirements.  
+- Provide feedback to developers to improve product quality.  
+
+### ⚙️ DevOps Engineers
+- Set up and maintain deployment pipelines (CI/CD).  
+- Manage cloud infrastructure, hosting, and monitoring.  
+- Ensure system reliability, security, and scalability.  
+
+### 📌 Product Owner
+- Defines the product vision and prioritizes features.  
+- Manages the product backlog and ensures alignment with business goals.  
+- Acts as the bridge between stakeholders and the development team.  
+
+### 🌀 Scrum Master
+- Facilitates agile ceremonies (standups, sprint planning, retrospectives).  
+- Coaches the team on agile practices.  
+- Removes impediments to ensure smooth workflow.  
+
+---
+By assigning and following these roles, the project team can work collaboratively, maintain accountability, and deliver a functional, user-friendly Airbnb-clone application.  
