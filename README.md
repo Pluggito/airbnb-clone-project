@@ -32,3 +32,24 @@ A user-friendly design is essential in a booking system because it:
 - **Enhances satisfaction**, ensuring users can quickly find, evaluate, and book properties without confusion.  
 - **Improves accessibility**, making the platform usable for a wider audience.  
 - **Encourages repeat use**, as users are more likely to return to a platform that feels smooth and efficient.  
+
+
+### Figma Design Specifications
+Color Styles:
+- **Primary**: #FF5A5F
+- **Secondary**: #008489
+- **Background**: #FFFFFF
+- **Text**: #222222
+- **Secondary Text**: #717171
+
+Typography:
+- **Primary Font**: Circular, Medium (500), 16px
+- **Headings**: Circular, Bold (700), 24px-32px
+- **Secondary Text**: Circular, Book (400), 14px
+
+
+### Importance of Identifying Design Properties in a Mockup  
+Identifying design properties in a mockup is essential for ensuring clarity between designers and developers.  
+It maintains consistency across the application by reusing styles, colors, and components.  
+This process improves efficiency during implementation and reduces errors or redesigns.  
+Ultimately, it supports a smooth user experience and makes the product more scalable and user-friendly.  
