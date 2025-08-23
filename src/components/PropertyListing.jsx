@@ -263,6 +263,7 @@ const PropertyListings = () => {
           <Card key={property.id} className="overflow-hidden border-0 rounded-md hover:shadow-md hover:rounded-3xl transition-shadow ">
             <div className="relative ">
               <img
+              loading="lazy"
                 src={property.image || "/placeholder.svg"}
                 alt={property.title}
                 className="w-full h-64 object-cover rounded-2xl aspect-[1:1]"
@@ -331,6 +332,11 @@ const PropertyListings = () => {
             </div>
           </Card>
         ))}
+      </div>
+
+      <div className="flex flex-col items-center mt-20 gap-2 py-3">
+        <Button className="bg-black text-white font-quicksand rounded-4xl py-6 text-md w-[10%] ">Show more</Button>
+        <p className="text-md font-quicksand text-black">Click to see more listings</p>
       </div>
     </div>
   )

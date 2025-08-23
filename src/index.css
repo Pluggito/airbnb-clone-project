@@ -122,6 +122,9 @@
 
   html {
     scroll-behavior: smooth;
-    scrollbar-width: none;
+    scrollbar-width: none; /* Firefox */
+  }
+  html::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
   }
 }
